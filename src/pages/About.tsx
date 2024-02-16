@@ -12,7 +12,7 @@ function About() {
         </p>
         <a
           className="hover:bg-black hover:text-white font-bold p-2 rounded-md bg-gray-300 text-black duration-500"
-          href="https://github.com/Vishesh-Pandey/v-share"
+          href="https://github.com/adesh-k-patra/v-share"
           target="_blank"
         >
           <i className="bi bi-github"></i> GitHub
